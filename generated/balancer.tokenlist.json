@@ -1,0 +1,39 @@
+{
+  "name": "LayerEdge",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "keywords": [
+    "LayerEdge",
+    "DeFi",
+    "DEX",
+    "AMM",
+    "Exchange",
+    "Liquidity",
+    "Pool",
+    "Token",
+    "Swap"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
+  "timestamp": "2023-07-19T02:36:07.641Z",
+  "tokens": [
+    {
+      "chainId": 3456,
+      "address": "0x97b18CE4386Ad07296BC347C4bD33E4aC1b9e83a",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
+    },
+    {
+      "chainId": 3456,
+      "address": "0xf1Abf3dcB59026529aA367E5D1B52747c4A784f7",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    }
+  ]
+}
