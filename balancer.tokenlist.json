@@ -22,8 +22,8 @@
     {
       "chainId": 3456,
       "address": "0x97b18CE4386Ad07296BC347C4bD33E4aC1b9e83a",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
+      "name": "Wrapped Edgen",
+      "symbol": "WEDGEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     },
@@ -34,6 +34,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 4207,
+      "address": "0x975f740d383B9bECBd69189D40390149C8951932",
+      "name": "Wrapped Edgen",
+      "symbol": "WEDGEN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2.png"
     }
   ]
 }
